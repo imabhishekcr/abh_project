@@ -1,0 +1,130 @@
+.heading {
+    font-weight: bold;
+    font-size: 30px;
+    color: rgb(1, 1, 17);
+    font-family: cursive;
+    
+}
+.sub-heading{
+    font-family: cursive;
+    color: black;
+    font-size: medium;
+    font-weight: 200;
+}
+.item{
+    display:inline-block;
+    height: 125px;
+    width: 300px;
+    border: solid 1px black;
+    margin-right: 10px;
+    margin-top: 10px;
+    box-shadow: 0px 2px 6px 2px #0000006b;
+    border-radius: 20px;
+}
+.left-portion{
+    display: inline-block;
+    width : 45%;
+    
+}
+.right-portion{
+    display: inline-block;
+    width : 50%;  
+    vertical-align: top;
+    padding-left: 10px;
+    padding-top: 10px;
+
+}
+.item-heading{
+    font-size: 20px;
+    font-family: cursive;
+    font-weight: bold;
+    
+}
+.item-description{
+    font-family: cursive;
+    font-size: 15px;
+  }  
+img{
+border-radius: 20px;
+} 
+.logo{
+    background-color: #ebe3e3;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    color: #0c0b09;
+    text-align: center;
+    font-size: 70px;
+   margin-left: 40%;
+   margin-top: 10%;
+   padding: 20px;
+}
+
+.absolute-block{
+    top: 10%;
+    position: absolute;
+    left: 20%;
+    text-align: center;
+}
+.main-heading{
+    color: whitesmoke;
+    font-size: xx-large;
+    font-family: cursive;
+    font-weight: 100px;
+    font-weight: bold;
+     line-height: 2;
+     right: 50%;
+     text-align: center;
+}
+.drop-down{
+    width: 150px;
+    height: 30px;
+}
+.search{
+    width: 75%;
+    height: 30;
+}
+.search-block{
+    text-align: center;
+}
+#img1 {
+    width: 100% ;
+ height: 400px;
+ border-radius: 0%;
+}
+.header-filter {
+    
+    background-color: rgb(78, 76, 76);
+    height: 100px;
+    }
+    .header-logo {
+        background-color: #ebe3e3;
+        height: 55px;
+        width: 55px;
+        border-radius: 95%;
+        color: #0c0b09;
+        font-size: 30px;
+        padding: 8px;
+        text-align: center;
+        display: inline-block;
+         margin: 5px;
+    }
+    .user-accounts {
+        display: inline-block;
+        float: right;
+        margin-top: 8px;
+        color: white;
+        font-weight: 500;
+        margin-right: 20px;
+    }
+    .login {
+        display: inline-block;
+    }
+    .sign-up {
+        display: inline-block;
+        border: solid 1px white;
+        padding: 5px;
+        margin-left: 10px;
+    }
+    
+    
